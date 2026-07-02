@@ -3,6 +3,23 @@
 A low-cost CNC machine resonance and chatter analysis system built using a Raspberry Pi 4 and MPU-6050 accelerometer.
 
 The project allows CNC machinists, manufacturing engineers, and hobbyists to perform machine-tool tap testing, identify vibration frequencies, estimate damping ratios, and generate spindle-speed avoidance recommendations using inexpensive hardware.
+<img width="700" height="1200" alt="tap_20260622_163222" src="https://github.com/user-attachments/assets/f3cec547-9b3d-4b5c-9b97-6190cb24440b" />
+<img width="1500" height="750" alt="tap_20260622_163222_avoid_chart" src="https://github.com/user-attachments/assets/41d3616d-a029-4636-bed0-38aebea43cee" />
+Sample Summary:
+File: tap_20260622_163222.csv (Duration ~7.999 s, Fs ~333.3 Hz)
+Axis X: Peak ~26.8 Hz (RMS 0.941 g, damping zeta 0.0600, method logdec)
+  Half-power check: f1 ~26.7 Hz, f2 ~26.9 Hz, bandwidth ~0.2 Hz
+Axis Y: Peak ~62.7 Hz (RMS 0.770 g, damping zeta 0.1102, method logdec)
+  Half-power check: f1 ~62.6 Hz, f2 ~62.8 Hz, bandwidth ~0.2 Hz
+Axis Z: Peak ~80.9 Hz (RMS 0.450 g, damping zeta 0.0846, method logdec)
+  Half-power check: f1 ~80.8 Hz, f2 ~81.2 Hz, bandwidth ~0.4 Hz
+Primary chatter axis selected: Axis X (lowest significant flexible mode at ~26.8 Hz)
+Recommendation: Avoid speeds causing ~27 Hz vibration.
+(For a 2-flute tool, ~803 RPM may excite this mode.)
+Estimated damping ratio on primary axis: zeta ~0.0600
+Avoid-these-speeds chart saved to: tap_20260622_163222_avoid_chart.png
+
+
 
 ---
 
