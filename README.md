@@ -1,6 +1,6 @@
 <img width="1024" height="1024" alt="PiModal CNC Logo 2" src="https://github.com/user-attachments/assets/defb082a-190e-4cfb-8145-9e89a04a4d00" />
 
-# CNC Tap Test Analyzer for Raspberry Pi
+# PiModal CNC - CNC Tap Test Analyzer for Raspberry Pi
 
 A low-cost CNC machine resonance and chatter analysis system built using a Raspberry Pi 4 and MPU-6050 accelerometer.
 
