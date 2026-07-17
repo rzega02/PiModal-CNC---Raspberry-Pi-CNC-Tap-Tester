@@ -1,0 +1,65 @@
+# Python Virtual Environments
+venv/
+env/
+~venvs/
+~venvs.7z
+*.venv
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+*.iml
+.project
+.settings/
+.classpath
+.c9/
+*.launch
+.nrepl-port
+.cider-history
+
+# OS
+.DS_Store
+Thumbs.db
+.env
+.env.local
+.env.*.local
+
+# Project-specific
+*.csv
+*.png
+*.jpg
+tap_*.txt
+data/
