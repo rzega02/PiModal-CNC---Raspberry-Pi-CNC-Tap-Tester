@@ -2,7 +2,7 @@
 
 # PiModal CNC - CNC Tap Test Analyzer for Raspberry Pi
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![License-Apache-2.0](https://img.shields.io/badge/Apache-2.0-grey?style=flat-square)](License)
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7+-green.svg)](https://www.python.org/downloads/)
 [![Raspberry Pi 4B](https://img.shields.io/badge/Raspberry_Pi-4B-red.svg)](https://www.raspberrypi.org/)
 
@@ -361,7 +361,7 @@ Suggestions, bug reports, and pull requests are welcome!
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file for details.
+This project is licensed under **Apache 2.0** - see [LICENSE](LICENSE) file for details.
 
 ---
 
