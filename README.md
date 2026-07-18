@@ -2,7 +2,8 @@
 
 A low-cost CNC machine resonance and chatter analysis system built using a Raspberry Pi 4 and MPU-6050 accelerometer.
 
-<img width="1024" height="1024" alt="Generated Image July 18, 2026 - 3_18AM" src="https://github.com/user-attachments/assets/98e70e16-9dd0-4c10-995a-5ffae03e51b4" />
+<img width="1024" height="1024" alt="Generated Image July 18, 2026 - 3_18AM" src="https://github.com/user-attachments/assets/98e70e16-9dd0-4c10-995a-5ffae03e51b4" /> <img width="896" height="1195" alt="Generated Image July 18, 2026 - 3_26AM2" src="https://github.com/user-attachments/assets/3033d408-7706-47a8-902e-80d240c65544" />
+
 
 [![License-Apache-2.0](https://img.shields.io/badge/Apache-2.0-grey?style=flat-square)](License)
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7+-green.svg)](https://www.python.org/downloads/)
